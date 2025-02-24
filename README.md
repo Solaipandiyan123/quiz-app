@@ -1,13 +1,13 @@
 Welcome to Interactive Quiz Application, a simple quiz game that tests your knowledge on various topics. The game provides multiple-choice questions with four possible answers. At the end of the game, players can save their scores and view a list of high scores.
 Company: CODETECH IT SOLUTIONS
 
-Name : SHYAM KUMAR V
+Name : Solai pandiyan.H
 
-Id: CT08EOR
+Id: CT08VGL
 
 Domain: FRONTEND WEB DEVELOPMENT
 
-Batch Duration: Dec 17th 2024 to Jan 17th, 2025
+Batch Duration: FEB 20 TO MAR 20
 
 Mentor Name: NEELA SANTHOSH
 Features
@@ -17,15 +17,7 @@ Save Your Score: After completing the quiz, you can enter your username and save
 Screenshots
 [Home Page]
 
-Screenshot 2025-01-05 080956
-
-[Game Page]
-
-Screenshot 2025-01-05 094131
-
-[End Screen]
-
-Screenshot 2025-01-05 094154
+![Image](https://github.com/user-attachments/assets/0314bf81-4137-464e-86c4-03c90fdbc9ce)
 
 How to Play
 Start the Game: Click on the "Play" button on the home page to start the game.
